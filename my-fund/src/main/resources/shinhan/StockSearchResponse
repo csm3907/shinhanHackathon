@@ -1,0 +1,30 @@
+{
+  "dataHeader" : {
+    "status" : "0",
+    "QTime" : "1",
+    "params" : {
+      "category" : "kospi,kosdaq",
+      "q" : "신한"
+    }
+  },
+  "dataBody" : {
+    "numFound" : "3",
+    "start" : "0",
+    "list" : [ {
+      "id" : "005450",
+      "name" : "신한",
+      "category" : "kospi",
+      "iskeyword" : true
+    }, {
+      "id" : "055550",
+      "name" : "신한지주",
+      "category" : "kospi",
+      "iskeyword" : true
+    }, {
+      "id" : "257730",
+      "name" : "신한제3호스팩",
+      "category" : "kosdaq",
+      "iskeyword" : true
+    } ]
+  }
+}

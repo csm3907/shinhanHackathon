@@ -1,0 +1,33 @@
+
+
+{
+  "dataHeader" : {
+    "successCode" : "0",
+    "resultCode" : "Z0001",
+    "resultMessage" : "조회가 완료되었습니다. ",
+    "category" : "API"
+  },
+  "dataBody" : {
+    "list" : [ {
+      "dom_for_tp_code" : "1",
+      "stbd_code" : "068400",
+      "stbd_nm" : "삼성전자"
+    }, {
+      "dom_for_tp_code" : "1",
+      "stbd_code" : "011760",
+      "stbd_nm" : "SK하이닉스"
+    }, {
+      "dom_for_tp_code" : "1",
+      "stbd_code" : "038540",
+      "stbd_nm" : "신한금융투자"
+    }, {
+      "dom_for_tp_code" : "1",
+      "stbd_code" : "055550",
+      "stbd_nm" : "카카오"
+    }, {
+      "dom_for_tp_code" : "1",
+      "stbd_code" : "055550",
+      "stbd_nm" : "네이버"
+    } ]
+  }
+}

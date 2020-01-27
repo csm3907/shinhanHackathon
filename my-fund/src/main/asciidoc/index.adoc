@@ -1,0 +1,72 @@
+= 신한해커톤 마이펀드 REST API Guide
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+
+= REST API
+== 기본 정보
+|===
+| Verb | Usage
+
+| `GET`
+| Used to retrieve a resource
+
+| `POST`
+| Used to create a new resource
+
+| `PUT`
+| Used to update an existing resource, including partial updates
+
+| `DELETE`
+| Used to delete an existing resource
+|===
+
+== Error Code
+|===
+|코드 |메세지 |설명 및 조치방안
+
+|1001
+|Invalid Parameter
+|필수 파라미터가 누락되었거나 포맷이 다릅니다.
+
+|1002
+|Duplicated Data
+|유니크한 데이터가 중복되었습니다.
+
+|1003
+|Already Used
+|이미 사용된 데이터입니다.
+
+|1004
+|Already In Existence
+|이미 존재한 데이터입니다.
+
+|1005
+|Not Found Data
+|데이터가 없습니다.
+
+|2001
+|Not Authorized
+|인증받지 못한 요청입니다.
+
+|2002
+|Access Denied
+|접근이 불가능합니다.
+
+|===
+
+== 펀드
+=== Fund.01 펀드 리스트 조회
+==== /v1.0/{memberId}/funds
+
+.request
+include::{snippets}\fund-controller-test\get-funds\http-request.adoc[]
+
+.response
+include::{snippets}\fund-controller-test\get-funds\http-response.adoc[]
+
+.response-fields
+include::{snippets}\fund-controller-test\get-funds\response-fields.adoc[]

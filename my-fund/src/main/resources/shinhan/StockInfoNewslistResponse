@@ -1,0 +1,171 @@
+{
+  "dataHeader" : {
+    "resultCode" : "Z0004",
+    "resultMessage" : "정상적으로 처리되었습니다.",
+    "successCode" : "0"
+  },
+  "dataBody" : {
+    "repeatKey" : "",
+    "list" : [ {
+      "news_date" : "20190924",
+      "news_in_time" : "160649",
+      "news_titl" : "‘강한 LG’로의 변신 이유는?",
+      "news_cls" : "E",
+      "commitment_bidsize" : "00668",
+      "news_no1" : "00668",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "160345",
+      "news_titl" : "제2 조국 청문회·기업인 등 증인 채택 두고 與野 ‘샅바 싸움’",
+      "news_cls" : "6",
+      "commitment_bidsize" : "DP0ZHF",
+      "news_no1" : "DP0ZHF",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "155837",
+      "news_titl" : "코스피 13거래일 연속 상승…두달만에 2,100선 회복(종합)",
+      "news_cls" : "Y",
+      "commitment_bidsize" : "001297",
+      "news_no1" : "001297",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "155614",
+      "news_titl" : "[표] 거래소 기관 순매수도 상위종목(24일)",
+      "news_cls" : "Y",
+      "commitment_bidsize" : "001357",
+      "news_no1" : "001357",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "155110",
+      "news_titl" : "[마감] 하락 출발한 코스피 기관 '사자' 상승",
+      "news_cls" : "A",
+      "commitment_bidsize" : "069499",
+      "news_no1" : "069499",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "155035",
+      "news_titl" : "코스피 기관 순매수,도 상위20종목",
+      "news_cls" : "A",
+      "commitment_bidsize" : "069494",
+      "news_no1" : "069494",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "154924",
+      "news_titl" : "[마감시황] 코스피 13거래일 연속 상승 마감...두달 만에 2,100선 회복",
+      "news_cls" : "6",
+      "commitment_bidsize" : "CPDU1D",
+      "news_no1" : "CPDU1D",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "154643",
+      "news_titl" : "코스피, 13거래일째 상승…두달만에 2,100선 탈환",
+      "news_cls" : "Y",
+      "commitment_bidsize" : "001329",
+      "news_no1" : "001329",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "153901",
+      "news_titl" : "삼성전자, 업계 최초 0.7㎛ 픽셀 이미지센서 공개",
+      "news_cls" : "7",
+      "commitment_bidsize" : "316246",
+      "news_no1" : "316246",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "153830",
+      "news_titl" : "삼성전자, 파리 패션위크서 '더 월 럭셔리' 쇼케이스 개최",
+      "news_cls" : "7",
+      "commitment_bidsize" : "316250",
+      "news_no1" : "316250",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "153704",
+      "news_titl" : "삼성전자, 초소형 '0.7㎛ 픽셀 이미지센서' 최초 공개",
+      "news_cls" : "A",
+      "commitment_bidsize" : "069480",
+      "news_no1" : "069480",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "151751",
+      "news_titl" : "삼성전자, 52주 신고가",
+      "news_cls" : "D",
+      "commitment_bidsize" : "00743",
+      "news_no1" : "00743",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "151107",
+      "news_titl" : "<유>삼성전자, 장중 신고가 돌파.. 49,600→49,650(▲50)",
+      "news_cls" : "6",
+      "commitment_bidsize" : "DQRLO7",
+      "news_no1" : "DQRLO7",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "150218",
+      "news_titl" : "화질에 이어 크기까지.. 계속되는 삼성전자 이미지센서의 진화",
+      "news_cls" : "6",
+      "commitment_bidsize" : "DE38B1",
+      "news_no1" : "DE38B1",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "144152",
+      "news_titl" : "삼성 지원 미래 부품·소재 연구, 국제학술지에 게재 '결실'",
+      "news_cls" : "A",
+      "commitment_bidsize" : "069397",
+      "news_no1" : "069397",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "142020",
+      "news_titl" : "1억원 이상 매수체결 상위 20 종목(코스피)",
+      "news_cls" : "A",
+      "commitment_bidsize" : "069357",
+      "news_no1" : "069357",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "135906",
+      "news_titl" : "삼성전자, 파리 패션위크서 ‘더 월 럭셔리’ 쇼케이스",
+      "news_cls" : "6",
+      "commitment_bidsize" : "DFTD7G",
+      "news_no1" : "DFTD7G",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "135054",
+      "news_titl" : "\"미세화 한계 돌파\"…삼성, 업계최초 0.7㎛ 이미지센서 공개(종합)",
+      "news_cls" : "Y",
+      "commitment_bidsize" : "000273",
+      "news_no1" : "000273",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "133827",
+      "news_titl" : "삼성, LCD→QD-OLED 전환에 13조원 투자한다",
+      "news_cls" : "E",
+      "commitment_bidsize" : "00470",
+      "news_no1" : "00470",
+      "shrt_code" : "005930"
+    }, {
+      "news_date" : "20190924",
+      "news_in_time" : "131200",
+      "news_titl" : "경기도, 시스템 반도체 소재 ‘국산화’ 추진…30억원 투입",
+      "news_cls" : "X",
+      "commitment_bidsize" : "00724",
+      "news_no1" : "00724",
+      "shrt_code" : "005930"
+    } ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "dataHeader" : {
+    "successCode" : "0",
+    "resultCode" : "00000",
+    "resultMessage" : "정상적으로 처리되었습니다."
+  },
+  "dataBody" : {
+    "stockTransitionList" : [ {
+      "trade_time" : "",
+      "fill_size" : "",
+      "trade_date" : "20160812",
+      "open_prc" : "40950",
+      "high_1" : "41450",
+      "low_1" : "",
+      "netchng_cls" : "2",
+      "netchng_1" : "250",
+      "pctchng_1" : "0",
+      "trdprc_1" : "41050",
+      "acvol_1" : "903861600"
+    }, {
+      "trade_time" : "",
+      "fill_size" : "",
+      "trade_date" : "20160811",
+      "open_prc" : "40750",
+      "high_1" : "41100",
+      "low_1" : "",
+      "netchng_cls" : "2",
+      "netchng_1" : "250",
+      "pctchng_1" : "0",
+      "trdprc_1" : "40800",
+      "acvol_1" : "903861600"
+    }, {
+      "trade_time" : "",
+      "fill_size" : "",
+      "trade_date" : "20160620",
+      "open_prc" : "38550",
+      "high_1" : "38750",
+      "low_1" : "",
+      "netchng_cls" : "2",
+      "netchng_1" : "850",
+      "pctchng_1" : "0",
+      "trdprc_1" : "38650",
+      "acvol_1" : "903861600"
+    } ],
+    "repeatKey" : "20160617",
+    "market_cls" : "KOSPI",
+    "acvol" : "53",
+    "code" : "055550",
+    "kor_name" : "신한지주",
+    "netchng_cls" : "2",
+    "netchng" : "950",
+    "pctchng" : "2.30",
+    "trdprc" : "42,300"
+  }
+}
